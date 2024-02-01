@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient(90deg, black, green);
+}
+h1{
+    color: rgb(219, 219, 29);
+    position: absolute;
+    left: 33%;
+    top: 5%;
+    font-size: 60px;
+    padding: 10px;
+    background: linear-gradient(to left, black, green);
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 10px;
+    
+    }
+
+label{
+    color: rgb(201, 201, 36);
+    font-size: 70px;
+    padding: 20px;
+    
+}
+.ponto{
+    position: absolute;
+    left: 4.5%;
+    top: 30%;
+    background-color: rgba(10,23,55,0.6);
+    padding-right: 70px;
+    padding-bottom: 20px;
+    border-radius: 20px;
+    padding-top: 180px;
+}
+
+input{
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 25px;
+    padding-bottom: -10px;
+    border-style: groove;
+
+    
+}   
+.um{
+    color: yellow;
+    font-size: 50px;
+    position: absolute;
+    left: 13%;
+    top: 28%;
+} 
+.dois{
+    color: yellow;
+    font-size: 50px;
+    position: absolute;
+    left: 13%;
+    top: 34%;
+} 
+button{
+    color: rgb(255, 255, 0);
+    position: absolute;
+    left: 40%;
+    top: 70%;
+    font-size: 60px;
+    padding: 10px;
+    background: linear-gradient(to left, black, green);
+    font-family:'Times New Roman', Times, serif;
+    border-radius: 10px;
+    border-style:outset;
+}
+img{
+    position: absolute;
+    left: 85%;
+    top: 5%;
+    border-radius: 20px;
+    
+}
+
